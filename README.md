@@ -54,7 +54,7 @@ How to open the Project:
   - Second you should check where you have downloaded the project, let's say on your desktop.. so you must write these command
   cd desktop (the location where the project is downloaded)
   cd hotel booking
-  cd client
+  cd client (or the src file)
   then npm run dev, that will generate the URL that appears (usually http://localhost:5173) to view the application in your browser.
 
 Responsive Design & Flexibility
